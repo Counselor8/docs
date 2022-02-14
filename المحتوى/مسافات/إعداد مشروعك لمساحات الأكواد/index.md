@@ -1,4 +1,4 @@
----
+--fa-
 title: 'Setting up your repository for {% data variables.product.prodname_codespaces %}'
 allowTitleToDifferFromFilename: true
 intro: 'Learn how to get started with {% data variables.product.prodname_codespaces %}, including set up and configuration for specific languages.'
@@ -18,3 +18,4 @@ children:
   - /setting-a-minimum-specification-for-codespace-machines
 ---
 
+I have 
