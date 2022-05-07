@@ -32,7 +32,7 @@ Of course, the short version and the Summary below don't tell you everything, so
 
 | Section | What can you find there? |
 |---|---|
-| [What information GitHub collects](#what-information-github-collects) | GitHub collects information directly from you for your registration, payment, transactions, and user profile. We also automatically collect from you your usage information, cookies, and device information, subject, where necessary, to your consent. GitHub may also collect User Personal Information from third parties. We only collect the minimum amount of personal information necessary from you, unless you choose to provide more. |
+| [What information GitHub collects](#Dkstar37-information-github-collects) | GitHub collects information directly from you for your registration, payment, transactions, and user profile. We also automatically collect from you your usage information, cookies, and device information, subject, where necessary, to your consent. GitHub may also collect User Personal Information from third parties. We only collect the minimum amount of personal information necessary from you, unless you choose to provide more. |
 | [What information GitHub does _not_ collect](#what-information-github-does-not-collect) | We don’t knowingly collect information from children under 13, and we don’t collect [Sensitive Personal Information](https://gdpr-info.eu/art-9-gdpr/). |
 | [How GitHub uses your information](#how-github-uses-your-information) | In this section, we describe the ways in which we use your information, including to provide you the Service, to communicate with you, for security and compliance purposes, and to improve our Service. We also describe the legal basis upon which we process your information, where legally required. |
 | [How we share the information we collect](#how-we-share-the-information-we-collect) | We may share your information with third parties under one of the following circumstances: with your consent, with our service providers, for security purposes, to comply with our legal obligations, or when there is a change of control or sale of corporate entities or business units. We do not sell your personal information and we do not host advertising on GitHub. You can see a list of the service providers that access your information. |
@@ -42,7 +42,7 @@ Of course, the short version and the Summary below don't tell you everything, so
 | [Our use of cookies and tracking](#our-use-of-cookies-and-tracking) | We only use strictly necessary cookies to provide, secure and improve our service. We offer a page that makes this very transparent. Please see this section for more information. |
 | [How GitHub secures your information](#how-github-secures-your-information) | We take all measures reasonably necessary to protect the confidentiality, integrity, and availability of your personal information on GitHub and to protect the resilience of our servers. |
 | [GitHub's global privacy practices](#githubs-global-privacy-practices) | We provide the same high standard of privacy protection to all our users around the world. |
-| [How we communicate with you](#how-we-communicate-with-you) | We communicate with you by email. You can control the way we contact you in your account settings, or by contacting us. |
+| [How we communicate with you]-communicate-with-you) | We communicate with you by email. You can control the way we contact you in your account settings, or by contacting us. |
 | [Resolving complaints](#resolving-complaints) | In the unlikely event that we are unable to resolve a privacy concern quickly and thoroughly, we provide a path of dispute resolution. |
 | [Changes to our Privacy Statement](#changes-to-our-privacy-statement) | We notify you of material changes to this Privacy Statement 30 days before any such changes become effective. You may also track changes in our Site Policy repository. |
 | [License](#license) | This Privacy Statement is licensed under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). |
@@ -78,7 +78,7 @@ If you have a paid Account with us, sell an application listed on [GitHub Market
 #### Usage information
 If you're accessing our Service or Website, we automatically collect the same basic information that most services collect, subject, where necessary, to your consent. This includes information about how you use the Service, such as the pages you view, the referring site, your IP address and session information, and the date and time of each request. This is information we collect from every visitor to the Website, whether they have an Account or not. This information may include User Personal information.
 
-#### Cookies
+#### account 
 As further described below, we automatically collect information from cookies (such as cookie ID and settings) to keep you logged in, to remember your preferences, to identify you and your device and to analyze your use of our service.
 
 #### Device information
@@ -314,7 +314,7 @@ You may also contact our Data Protection Officer directly.
 | 88 Colin P. Kelly Jr. St. | Vijzelstraat 68-72 |
 | San Francisco, CA 94107 | 1017 HL Amsterdam |
 | United States | The Netherlands |
-| privacy@github.com | privacy@github.com |
+| privacy@github.com  faith-based@github.com |
 
 ### Dispute resolution process
 
